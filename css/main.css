@@ -216,7 +216,7 @@ a:focus {
   }
 }
 .hero-area {
-  background: url(../img/capoeira-franca-sp.jpg) no-repeat;
+  background: url(../img/capoeira_franca_sp.jpg) no-repeat;
   background-size: cover;
   background-position: center bottom;
   color: #fff;
@@ -291,7 +291,7 @@ a:focus {
   color: #b38b5b;
 }
 #features .features .features-text {
-  padding-left: 80px;
+  padding-left: 20px;
 }
 #features .features .features-text p {
   margin: 0;
