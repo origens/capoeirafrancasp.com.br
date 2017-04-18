@@ -948,3 +948,13 @@ a:focus {
   top: 50px;
   left: 50px;
 }
+.devby {
+    width: 50px;
+    float: right;
+}
+.devby a {
+	color: #fbfaf7 !important;
+}
+.devby a:hover {
+	color: #b38b5b !important;
+}
